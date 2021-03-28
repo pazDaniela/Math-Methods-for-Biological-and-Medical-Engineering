@@ -14,6 +14,6 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aoguedao/mat281_portfolio_template/master?urlpath=lab)
 
-* __John Titor__ : Daniela Díaz Mora [My Page](https://www.linkedin.com/in/williamhgates/)
+* __John Titor__ :  [Daniela Díaz Mora](https://www.linkedin.com/in/williamhgates/)
 * __Instructor__ :  Carlos A. Sing Long
 * __Teacher Assistant__ :  Carlos Castillo
