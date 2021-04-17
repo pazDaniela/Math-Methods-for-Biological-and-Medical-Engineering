@@ -1,6 +1,5 @@
 <header>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" width=200 alt="UTFSM" align="left"/>
-<img src="./images/dmat.png" alt="DMAT" align="right"/>
+<img src="./images/uc.png" alt="UC" align="left"/>
 </header>
 </br></br></br></br></br>
 
